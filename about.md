@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+## Nicholas J. Roberts
+![Self-portrait of N. J. Roberts]({{ site.baseurl }}/images/self_portrait-min.jpg "Nick's self-portrait")
 
 BSc Honours, Dalhousie University (2023, Erin R. Johnson)
 
