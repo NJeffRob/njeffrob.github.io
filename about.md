@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 BSc Honours, Dalhousie University (2023, Erin R. Johnson)
 
