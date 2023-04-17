@@ -31,6 +31,8 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   mastodon: '@njeffrob'
+  scholar: 'citations?hl=en&user=XQIeR2YAAAAJ'
+  orcid: '0000-0002-4989-8726'
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
