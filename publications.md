@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-## Graduate School (University of Victoria)
+## Graduate (University of Victoria)
 
 
 ## Undergraduate (Dalhousie University)
