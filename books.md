@@ -1,5 +1,8 @@
 ---
 layout: page
-title: Books/Book Chapters
+title: Books
 permalink: /books/
 ---
+## Books
+
+## Book Chapters
