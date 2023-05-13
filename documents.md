@@ -9,8 +9,8 @@ pdf: true
 
 [Nick's teaching dossier][2]
 
-[1]:{{ site.baseurl }}/pdfs/Academic_CV_NR_April_2023.pdf
+[1]:{{ site.baseurl }}/pdfs/Academic_CV_NR_May_2023.pdf
 
 [2]:{{ site.baseurl }}/pdfs/Teaching_Dossier_NR_April_2023.pdf
 
-## A DFT Guide for Experimentalists 
+[comment]: <> (## A DFT Guide for Experimentalists ) 
