@@ -7,4 +7,4 @@ A few months ago, I was asked to do an interview as a graduating chemistry under
 
 ![]({{ site.baseurl }}/images/Nick_Roberts_alumni-1.png)
 
-This lovely poster was made by Harshita Pasumarthi, who, if she keeps up with it, looks to have a bright future in  science communication. Thanks Harshita for taking the time to do this! Very awesome.
+This lovely poster was made by Harshita Pasumarthi (instagram: harshita_s33), who, if she keeps up with it, looks to have a bright future in  science communication. Thanks Harshita for taking the time to do this! Very awesome.
