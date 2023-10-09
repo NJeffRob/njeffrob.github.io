@@ -13,8 +13,8 @@ pdf: true
 
 [comment]: <> ([Nick's teaching dossier][2])
 
-[1]:{{ site.baseurl }}/pdfs/Academic_CV_NR_October_2023.pdf
+[comment]: <> ([1]:{{ site.baseurl }}/pdfs/Academic_CV_NR_October_2023.pdf)
 
-[2]:{{ site.baseurl }}/pdfs/Teaching_Dossier_NR_October_2023.pdf
+[comment]: <> ([2]:{{ site.baseurl }}/pdfs/Teaching_Dossier_NR_October_2023.pdf)
 
 [comment]: <> (## A DFT Guide for Experimentalists ) 
