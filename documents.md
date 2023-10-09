@@ -5,11 +5,9 @@ permalink: /documents/
 pdf: true
 ---
 ## Academic CV & Teaching Dossier
-<embed src="https://github.com/NJeffRob/njeffrob.github.io/tree/master/pdfs/Academic_CV_NR_October_2023.pdf" width="500" height="375" 
- type="application/pdf">
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/Academic_CV_NR_October_2023.pdf" width="1000" height="1000" type="application/pdf"></object>
 
- <embed src="https://github.com/NJeffRob/njeffrob.github.io/tree/master/pdfs/Teaching_Dossier_NR_October_2023.pdf" width="500" height="375" 
- type="application/pdf">
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/Teaching_Dossier_NR_October_2023.pdf" width="1000" height="1000" type="application/pdf"></object>
  
 [Nick's academic CV][1]
 
