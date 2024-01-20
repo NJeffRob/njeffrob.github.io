@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This week in art progress
+title: This week in art progress (Jan 14th 2024)
 ---
 
 I mentioned in my new year's resolutions post that I was going to learn to draw this year. To help motivate that, I want to post my art progress on a weekly(ish) basis. This past week was a lot of peanuts characters, practicing fundamentals, and the loomis method of drawing heads.
