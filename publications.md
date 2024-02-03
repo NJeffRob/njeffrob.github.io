@@ -7,7 +7,7 @@ permalink: /publications/
 
 
 ## Undergraduate (Dalhousie University)
-7. "Nickel-Catalyzed O-Arylation of Primary or Secondary Aliphatic Alcohols with (Hetero)aryl Chlorides: A Comparison of Ni(I) and Ni(II) Pre-catalysts." K. Morrison, **N. J. Roberts**, S. Dudra, J. Tassone, M. Ferguson, E. Johnson, M. Stradiotto. (_J. Org. Chem._, **2023**, DOI: <https://pubs.acs.org/doi/10.1021/acs.joc.3c01584>).
+7. "Nickel-Catalyzed O-Arylation of Primary or Secondary Aliphatic Alcohols with (Hetero)aryl Chlorides: A Comparison of Ni(I) and Ni(II) Pre-catalysts." K. Morrison, **N. J. Roberts**, S. Dudra, J. Tassone, M. Ferguson, E. Johnson, M. Stradiotto. (_J. Org. Chem._, **2023**). DOI: <https://doi.org/10.1021/acs.joc.3c01584>
 6. "An Improved Synthesis of PN-adamantanoid Cages P4(NR)6 and a Mechanistic Study of their Fourfold Oxidation." M. A. Land, J. Ren, **N. J. Roberts**, K. L. Bamford, M. Shayan, A. Kutulska, T. George, J. D. Masuda, and S. S. Chitnis. (_Chem. Asian J._, **2023**, _18_). DOI: <https://doi.org/10.1002/asia.202300561>
 5. "How Effective Are Indicators for Individuals with Colour Vision Deficiency?" **N. J. Roberts**, Toren Hynes, Devon Stacey, Jennifer L. MacDonald. (_J. Chem. Educ._, **2023**, _100_, 4168-4173). DOI: <https://doi.org/10.1021/acs.jchemed.3c00413> 
 4. "Dispersion stabilizes metal-metal bonds in the 1,8-bis(silylamido)naphthalene ligand environment.” **N. J. Roberts**, E. R. Johnson, S. S. Chitnis. (_Organometallics_, **2022**, _41_, 2180-2187). DOI: <https://doi.org/10.1021/acs.organomet.2c00268>
