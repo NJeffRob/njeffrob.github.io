@@ -7,4 +7,4 @@ It has been a busy, shitty week. Lotta personal troubles, lotta stress from work
 
 ![]({{ site.baseurl }}/images/feb25_art1.jpg)
 
-![]({{ site.baseurl }}/images/feb25_art1.jpg)
+![]({{ site.baseurl }}/images/feb25_art2.jpg)
