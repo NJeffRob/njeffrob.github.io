@@ -5,6 +5,6 @@ permalink: /contact/
 ---
 Feel free to contact me at any of the following!
 
-[Njeffrob@gmail.com](mailto:njeffrob@gmail.com)
+[Njeffrob@tutanota.com](mailto:njeffrob@tutanota.com)
 
 [Njeffrob@thecanadian.social](https://thecanadian.social/@njeffrob)
