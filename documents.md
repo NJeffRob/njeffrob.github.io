@@ -5,9 +5,9 @@ permalink: /documents/
 pdf: true
 ---
 ## Academic CV & Teaching Dossier
-<object data="{{ site.url }}{{ site.baseurl }}/pdfs/Academic_CV_NR_October_2023.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/Academic_CV_NR_May_2024.pdf" width="1000" height="1000" type="application/pdf"></object>
 
-<object data="{{ site.url }}{{ site.baseurl }}/pdfs/Teaching_Dossier_NR_October_2023.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/Teaching_Dossier_NR_May_2024.pdf" width="1000" height="1000" type="application/pdf"></object>
  
 [comment]: <> ([Nick's academic CV][1])
 
