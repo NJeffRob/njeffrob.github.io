@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ## Graduate (University of Victoria)
-
+8. "Chromatic inclusivity in chemistry." **N. J. Roberts**, J. L. MacDonald. (_Nat Rev Chem_, **2024**). DOI: <https://doi.org/10.1038/s41570-024-00619-w>
 
 ## Undergraduate (Dalhousie University)
 7. "Nickel-Catalyzed O-Arylation of Primary or Secondary Aliphatic Alcohols with (Hetero)aryl Chlorides: A Comparison of Ni(I) and Ni(II) Pre-catalysts." K. Morrison, **N. J. Roberts**, S. Dudra, J. Tassone, M. Ferguson, E. Johnson, M. Stradiotto. (_J. Org. Chem._, **2023**). DOI: <https://doi.org/10.1021/acs.joc.3c01584>
