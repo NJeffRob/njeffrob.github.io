@@ -6,7 +6,7 @@
 name: Nicholas J. Roberts
 
 # Short bio or description (displayed in the header)
-description: Personal website for Nicholas J. Roberts, a Canadian chemist and Linux enthusiast. 
+description: Personal website for Nicholas J. Roberts, a Canadian chemist and open source enthusiast. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/NJeffRob/njeffrob.github.io/master/images/atom.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: NJeffRob
   instagram:
-  linkedin:
+  linkedin: www.linkedin.com/in/nick-roberts-250326320
   pinterest:
   rss: RSS # just type anything here for a working RSS icon
   twitter: 
