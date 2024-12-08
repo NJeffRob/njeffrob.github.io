@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: "Nicholas J. Roberts"
 title_separator: "|"
-email: njeffrob@tutanota.com
+email: 
 description: "Personal website for Nicolas J. Roberts." #>- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
 #twitter_username: username
 github_username: njeffrob
 minimal_mistakes_skin: dark
@@ -83,7 +83,7 @@ footer:
       url: "https://github.com/"
     - label: "Email"
       icon: "fa-solid fa-envelope"
-      url: 
+      url: "mailto:njeffrob@tutanota.com"
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-4989-8726"
