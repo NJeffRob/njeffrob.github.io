@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Updates"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Professional Documents"
+    url: /profdocs/
+  - title: "Publications"
+    url: /publications/
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/
