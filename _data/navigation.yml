@@ -1,6 +1,6 @@
 main:
   - title: "Updates"
-    url: /posts/
+    url: /updates/
   - title: "Professional Documents"
     url: /profdocs/
   - title: "Publications"
