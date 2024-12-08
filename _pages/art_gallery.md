@@ -1,5 +1,5 @@
 ---
-title: "Art Gallery
+title: "Art Gallery"
 permalink: /artgallery/
 author_profile: true
 ---
