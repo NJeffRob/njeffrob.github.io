@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Home | Nicholas J. Roberts
+title: Nicholas J. Roberts
+title_separator: "|"
 email: njeffrob@tutanota.com
 description: "Personal website for Nicolas J. Roberts." #>- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,7 +60,7 @@ plugins:
 
 author:
   name   : "Nicholas J. Roberts"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/NJR-headshot-001.jpg"
   bio    : "Nick is a Canadian chemist trying his best at engineering."
   links:
     - label: "Website"
@@ -77,15 +78,23 @@ author:
 
 footer:
   links:
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #    url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-   # - label: "Instagram"
-   #   icon: "fab fa-fw fa-instagram"
-   #   url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: 
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-4989-8726"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.ca/citations?hl=en&user=XQIeR2YAAAAJ"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/nick-roberts-250326320/"
+    
+
 
 defaults:
   # _posts
