@@ -68,7 +68,7 @@ author:
       url: "https://njeffrob.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/njeffrob"
     - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:njeffrob@tutanota.com"
@@ -86,7 +86,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/njeffrob"
     - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:njeffrob@tutanota.com"
