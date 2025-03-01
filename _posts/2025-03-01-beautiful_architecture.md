@@ -8,4 +8,4 @@ While it no doubt made it obvious that I was a tourist, there was something so i
 
 I've added a photo here for the reader's convenience, but it really doesn't do justice to what has to be one of the most incredible pieces of architecture I've ever seen. If you get the opportunity to see it or something like it, please do; you won't be dissapointed.
 
-![York Minster](https://github.com/NJeffRob/njeffrob.github.io/blob/master/assets/images/york_cathedral.jpg "The York Minster Cathedral")
+![York Minster](/assets/images/york_cathedral.jpg "The York Minster Cathedral")
