@@ -84,23 +84,25 @@ author:
     - label: "Buy me a coffee"
       icon: "fa-solid fa-mug-saucer"
       url: "https://buymeacoffee.com/nicholas_j_roberts"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/njeffrob"
-    - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "mailto:njeffrob@tutanota.com"
-    - label: "ORCID"
-      icon: "fa-brands fa-orcid"
-      url: "https://orcid.org/0000-0002-4989-8726"
-    - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
-      url: "https://scholar.google.ca/citations?hl=en&user=XQIeR2YAAAAJ"
-    - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/nick-roberts-250326320/"
-    
+  
+  footer:
+    links:
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/njeffrob"
+      - label: "Email"
+        icon: "fa-solid fa-envelope"
+        url: "mailto:njeffrob@tutanota.com"
+      - label: "ORCID"
+        icon: "fa-brands fa-orcid"
+        url: "https://orcid.org/0000-0002-4989-8726"
+      - label: "Google Scholar"
+        icon: "fa-brands fa-google-scholar"
+        url: "https://scholar.google.ca/citations?hl=en&user=XQIeR2YAAAAJ"
+      - label: "LinkedIn"
+        icon: "fa-brands fa-linkedin"
+        url: "https://www.linkedin.com/in/nick-roberts-250326320/"
+      
 
 
 defaults:
