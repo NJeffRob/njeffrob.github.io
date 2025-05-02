@@ -102,6 +102,9 @@ footer:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/nick-roberts-250326320/"
+    - label: "Buy me a coffee"
+      icon: "fa-solid fa-mug-saucer"
+      url: "https://buymeacoffee.com/nicholas_j_roberts"
 
 defaults:
   # _posts
