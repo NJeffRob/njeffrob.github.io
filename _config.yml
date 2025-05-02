@@ -85,7 +85,7 @@ author:
       icon: "fa-solid fa-mug-saucer"
       url: "https://buymeacoffee.com/nicholas_j_roberts"
   footer:
-    links:
+  links:
       - label: "GitHub"
         icon: "fab fa-fw fa-github"
         url: "https://github.com/njeffrob"
@@ -101,8 +101,6 @@ author:
       - label: "LinkedIn"
         icon: "fa-brands fa-linkedin"
         url: "https://www.linkedin.com/in/nick-roberts-250326320/"
-      
-
 
 defaults:
   # _posts
