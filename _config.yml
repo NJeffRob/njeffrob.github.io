@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Nicholas J. Roberts"
   avatar : "/assets/images/NJR-headshot-001.jpg"
-  bio    : "Nick is a Canadian chemist trying his best at engineering."
+  bio    : "Canadian scientist, musician, and programmer. You'll find a mix of professional and personal updates here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -81,6 +81,8 @@ author:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/nick-roberts-250326320/"
+    - label: "Buy me a coffee"
+      url: <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nicholas_j_roberts" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 footer:
   links:
