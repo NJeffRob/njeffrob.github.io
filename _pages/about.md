@@ -9,7 +9,7 @@ MSc in Chemistry, The University of Victoria (2025, J. S. McIndoe)
 
 I graduated with a BSc honours in chemistry and minor in Neuroscience from Dalhousie University in 2023, under the supervision of Prof. Erin R. Johnson. While at Dalhousie, I was heavily involved in research of all kinds, including main group inorganic synthetic chemistry, density-functional theory, and accessibility in chemical education.
 
-I'm currently a graduate student at the University of Victoria for the McIndoe lab. My thesis focused on developing inexpensive automative devices to improve the accessibility of automative tools in chemistry.
+I'm currently a graduate student at the University of Victoria for the McIndoe lab, with an expected graduation of August 2025. My thesis focuses on developing inexpensive automated tools in chemistry.
 
 Outside of work, I like making art of all kinds. I like writing, drawing and making/recording music.
 
