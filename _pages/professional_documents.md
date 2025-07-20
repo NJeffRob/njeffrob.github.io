@@ -3,7 +3,12 @@ title: "Resume, CV, and Teaching Dossier"
 permalink: /profdocs/
 author_profile: true
 ---
-<object data="{{ site.url }}{{ site.baseurl }}/assets/documents/NJR_Resume_July_2025.pdf" width="2000" height="2000" type="application/pdf"></object>
+
+![](/assets/documents/NJR_Resume_July_2025-1.png)
+
+![](/assets/documents/NJR_Resume_July_2025-2.png)
+
+[//]: <> (<object data="{{ site.url }}{{ site.baseurl }}/assets/documents/NJR_Resume_July_2025.pdf" width="2000" height="2000" type="application/pdf"></object>Academic_CVAcademic_CV)
 
 [Academic CV (July 2025)](/assets/documents/Academic_CV_NJR_July_2025.pdf)
 
