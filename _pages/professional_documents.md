@@ -7,7 +7,7 @@ author_profile: true
 
 [Academic CV (July 2025)](/assets/documents/Academic_CV_NJR_July_2025.pdf)
 
-[Teaching Dossier (July 2025)](/assets/documents/Academic_CV_NJR_July_2025.pdf)   
+[Teaching Dossier (July 2025)](/assets/documents/Teaching_Dossier_NJR_July_2025.pdf)   
 
 [//]: <> (Commenting out stuff below)
 [//]: <> (<object data="{{ site.url }}{{ site.baseurl }}/assets/documents/Academic_CV_NJR_May_2025.pdf" width="1000" height="1000" type="application/pdf"></object>)
