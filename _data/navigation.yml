@@ -1,7 +1,7 @@
 main:
   - title: "Updates"
     url: /updates/
-  - title: "CV"
+  - title: "Resume"
     url: /profdocs/
   - title: "Publications"
     url: /publications/
