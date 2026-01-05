@@ -1,6 +1,6 @@
 ---
-title: "Art Gallery"
-permalink: /artgallery/
+title: "Music"
+permalink: /music/
 author_profile: true
 ---
 
