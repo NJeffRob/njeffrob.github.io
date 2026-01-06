@@ -1,5 +1,5 @@
 ---
-title:  Wolf at the Table: What was it supposed to be?
+title:  "Wolf at the Table: What was it supposed to be?"
 ---
 
 Adam Rapp's "Wolf at the Table" was my first read of this year, after unsuccessfully finishing it in 2025. After thinking on it for a few days, I've decided that I don't like it, and want to share my thoughts on why (hopefully without spoiling too much).
