@@ -1,4 +1,6 @@
-# Wolf at the Table: What was it supposed to be?
+---
+title: "Wolf at the Table: What was it supposed to be?"
+--- 
 Adam Rapp's "Wolf at the Table" was my first read of this year, after unsuccessfully finishing it in 2025. After thinking on it for a few days, I've decided that I don't like it, and want to share my thoughts on why (hopefully without spoiling too much).
 
 The story follows several generations of the Larkin family (Myra, Fiona, Lexi, Ronan, and Alec - there are others but they don't really matter), from the 1950s to 2010. We run into my first issue with the story here: it has too many "main" characters and follows them over too long a time frame. This makes it difficult to empathize with many of them, and it also leaves much in the air. For example, about halfway through the book one character cheats on his wife while abroad for work. This is never brought up again; we never see him own up to his wife or argue with her or anything. Instead, we get a timeskip and are put into the perspective of a different character. I found this quite jarring, and it happens at other key moments throughout the book.
